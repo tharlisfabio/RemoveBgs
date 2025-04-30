@@ -1,2 +1,2 @@
 # RemoveBgs
-Programa para remover fundo de imagens
+Software para remover fundo de imagens
